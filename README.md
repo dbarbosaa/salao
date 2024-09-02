@@ -1,7 +1,7 @@
 # spring-boot
 
 
-1. Classe JPA com mapeamento para os bancos SQL SERVER e POSTGRESQL
+1. Classe JPA com mapeamento para os bancos POSTGRESQL
 2. Camada de Serviço
 3. Camara de Repositorios 
 4. Camada Controller para expor os endpoints
