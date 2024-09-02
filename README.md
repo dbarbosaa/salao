@@ -8,8 +8,7 @@
 5. Swagger 3 Aplicado para documentação dos endpoints
 
 
-![image](https://user-images.githubusercontent.com/21311134/217940625-ea1571e4-f797-4a3c-8443-fce30be9d2dc.png)
-
+![image](https://github.com/user-attachments/assets/fc08133b-2bc3-4024-9b1f-820f1c124eba)
 
 
 
